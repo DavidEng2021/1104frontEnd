@@ -1,0 +1,20 @@
+.btn{
+    display: block;
+    background-color: gray;
+    margin-top: 5px;
+    height: 25px;
+    width: 80px;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: yellow;
+}
+.link{
+    text-decoration: none;
+}
+.payway{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.app{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    background-color: rgb(53, 182, 169);
+    padding: 80px;
+    border-radius: 20px;
+}
